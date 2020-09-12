@@ -5,7 +5,8 @@ core_version_requirement: '^8.8 || ^9'
 
 install:
   - menu_link_content
-  - internal_page_cache
+  - dynamic_page_cache
+  - page_cache
   - layout_builder
   - media
   - media_library
