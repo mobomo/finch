@@ -51,4 +51,4 @@ dependencies:
   - config_ignore
 
 themes:
-  - classy
+  - bartik
