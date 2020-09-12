@@ -41,7 +41,6 @@ install:
   - ckeditor
   - config_ignore
   - menu_ui
-  - classy
 
 dependencies:
   - node
