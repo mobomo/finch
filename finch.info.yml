@@ -46,7 +46,7 @@ dependencies:
   - block
   - views
   - twig_tweak
-  - admin_menu
+  - admin_toolbar
   - config_ignore
 
 themes:
