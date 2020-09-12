@@ -4,7 +4,7 @@ description: 'Base profile that is actually usable, less than standard, more tha
 core_version_requirement: '^8.8 || ^9'
 
 install:
-  - custom_menu_links
+  - menu_link_content
   - internal_page_cache
   - layout_builder
   - media
