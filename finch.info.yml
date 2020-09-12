@@ -1,0 +1,38 @@
+name: Finch
+type: profile
+description: 'Base profile that is actually usable, less than standard, more than minimal'
+core_version_requirement: '^8.8 || ^9'
+
+install:
+  - history
+  - block_content
+  - breakpoint
+  - color
+  - config
+  - contextual
+  - contact
+  - quickedit
+  - help
+  - image
+  - options
+  - path
+  - taxonomy
+  - dblog
+  - search
+  - shortcut
+  - toolbar
+  - field_ui
+  - file
+  - rdf
+  - views
+  - views_ui
+  - editor
+  - ckeditor
+
+dependencies:
+  - node
+  - block
+  - views
+
+themes:
+  - classy
