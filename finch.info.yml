@@ -4,14 +4,10 @@ description: 'Base profile that is actually usable, less than standard, more tha
 core_version_requirement: '^8.8 || ^9'
 
 install:
-  - history
   - block_content
-  - breakpoint
-  - color
   - config
   - contextual
   - contact
-  - quickedit
   - help
   - image
   - options
@@ -34,5 +30,3 @@ dependencies:
   - block
   - views
 
-themes:
-  - classy
