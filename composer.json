@@ -2,6 +2,7 @@
   "name": "zenphp/finch",
   "description": "Less than standard, more usable than Minimal",
   "minimum-stability": "stable",
+  "type": "drupal-profile",
   "license": "proprietary",
   "authors": [
     {
