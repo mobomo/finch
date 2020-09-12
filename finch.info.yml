@@ -4,10 +4,24 @@ description: 'Base profile that is actually usable, less than standard, more tha
 core_version_requirement: '^8.8 || ^9'
 
 install:
+  - custom_menu_links
+  - internal_page_cache
+  - layout_builder
+  - media
+  - media_library
+  - admin_toolbar
+  - field_layout
+  - datetime
+  - components
+  - twig_tweak
+  - history
   - block_content
+  - breakpoint
+  - color
   - config
   - contextual
   - contact
+  - quickedit
   - help
   - image
   - options
@@ -24,9 +38,15 @@ install:
   - views_ui
   - editor
   - ckeditor
+  - config_ignore
 
 dependencies:
   - node
   - block
   - views
+  - twig_tweak
+  - admin_menu
+  - config_ignore
 
+themes:
+  - classy
