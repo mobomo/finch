@@ -1,0 +1,14 @@
+{
+  "name": "zenphp/finch",
+  "description": "Less than standard, more usable than Minimal",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "jason",
+      "email": "jason@zenphp.com"
+    }
+  ],
+  "require": {
+  }
+}
