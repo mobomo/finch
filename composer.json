@@ -1,13 +1,13 @@
 {
-  "name": "zenphp/finch",
+  "name": "mobomo/finch",
   "description": "Less than standard, more usable than Minimal",
   "minimum-stability": "stable",
   "type": "drupal-profile",
   "license": "proprietary",
   "authors": [
     {
-      "name": "jason",
-      "email": "jason@zenphp.com"
+      "name": "Jason Murray",
+      "email": "jason.murray@mobomo.com"
     }
   ],
   "require": {
