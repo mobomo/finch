@@ -52,3 +52,4 @@ dependencies:
 
 themes:
   - bartik
+  - lark
