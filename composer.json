@@ -12,7 +12,7 @@
         "drupal/config_ignore": "^2.3",
         "drupal/devel": "^4.1.1",
         "drupal/devel_kint_extras": "^1.0",
-        "drupal/disable_html_validation": "^1.1",
+        "drupal/disable_html5_validation": "^1.1",
         "drupal/embed": "^1.4",
         "drupal/field_group": "^3.2",
         "drupal/file_mdm": "^2.1",
