@@ -6,7 +6,7 @@
     "license": "proprietary",
     "require": {
         "drupal/admin_toolbar": "^3.0",
-        "drupal/better_exposed_filters": "4.0-beta4",
+        "drupal/better_exposed_filters": "5.0-beta3",
         "drupal/coffee": "^1.2",
         "drupal/config_ignore": "^2.3",
         "drupal/file_mdm": "^2.1",
