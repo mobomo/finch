@@ -1,13 +1,25 @@
 {
-  "name": "mobomo/finch",
-  "description": "Less than standard, more usable than Minimal",
-  "minimum-stability": "stable",
-  "type": "drupal-profile",
-  "license": "proprietary",
-  "authors": [
-    {
-      "name": "Jason Murray",
-      "email": "jason.murray@mobomo.com"
-    }
-  ]
+    "name": "mobomo/finch",
+    "description": "Less than standard, more usable than Minimal",
+    "minimum-stability": "stable",
+    "type": "drupal-profile",
+    "license": "proprietary",
+    "require": {
+        "drupal/admin_toolbar": "^3.0",
+        "drupal/better_exposed_filters": "4.0-beta4",
+        "drupal/coffee": "^1.2",
+        "drupal/config_ignore": "^2.3",
+        "drupal/file_mdm": "^2.1",
+        "drupal/image_effects": "^3.1",
+        "drupal/linkit": "^4.3",
+        "drupal/pathauto": "^1.8",
+        "drupal/token": "^1.9",
+        "drupal/twig_tweak": "^3.1"
+    },
+    "authors": [
+        {
+            "name": "Jason Murray",
+            "email": "jason.murray@mobomo.com"
+        }
+    ]
 }
