@@ -55,16 +55,22 @@ dependencies:
   - admin_toolbar_tools:admin_toolbar_tools
   - better_exposed_filters:better_exposed_filters
   - coffee:coffee
+  - config_ignore:config_ignore
   - ctools:ctools
+  - disable_html5_validation:disable_html5_validation
+  - embed:embed
+  - field_group:field_group
   - file_mdm:file_mdm
   - file_mdm_exif:file_mdm_exif
   - file_mdm_font:file_mdm_font
+  - hook_post_action:hook_post_action
   - image_effects:image_effects
   - linkit:linkit
   - pathauto:pathauto
+  - redirect:redirect
   - token:token
   - twig_tweak:twig_tweak
-  - config_ignore:config_ignore
+  - url_embed:url_embed
 
 themes:
   - bartik
