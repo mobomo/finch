@@ -25,7 +25,7 @@
         "drupal/redirect": "^1.6",
         "drupal/search_api": "^1.20",
         "drupal/token": "^1.9",
-        "drupal/twig_tweak": "^2.8",
+        "drupal/twig_tweak": "2.9",
         "drupal/url_embed": "1.0-beta1"
     },
     "authors": [
