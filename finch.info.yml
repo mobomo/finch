@@ -54,7 +54,6 @@ dependencies:
   - admin_toolbar:admin_toolbar
   - admin_toolbar_tools:admin_toolbar_tools
   - better_exposed_filters:better_exposed_filters
-  - block_content_revision_ui:block_content_revision_ui
   - coffee:coffee
   - config_ignore:config_ignore
   - ctools:ctools
