@@ -18,7 +18,6 @@
         "drupal/file_mdm": "^2.1",
         "drupal/hook_post_action": "^1.1",
         "drupal/image_effects": "^3.1",
-        "drupal/lark": "^1.0.0",
         "drupal/linkit": "^6.0.0-beta2",
         "drupal/pathauto": "^1.8",
         "drupal/redirect": "^1.6",
