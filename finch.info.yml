@@ -26,9 +26,7 @@ dependencies:
   - drupal:history
   - drupal:image
   - drupal:inline_form_errors
-  - drupal:language
   - drupal:link
-  - drupal:locale
   - drupal:media
   - drupal:media_library
   - drupal:menu_link_content
