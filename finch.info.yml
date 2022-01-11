@@ -11,7 +11,6 @@ dependencies:
   - drupal:ckeditor
   - drupal:color
   - drupal:config
-  - drupal:contact
   - drupal:datetime
   - drupal:dblog
   - drupal:editor
